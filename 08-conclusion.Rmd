@@ -1,0 +1,28 @@
+--- 
+title: "Commercial Corresondence"
+author: "I-Ming, Kim, Chen"
+date: '`r Sys.Date()`'
+site: bookdown::bookdown_site
+---
+
+# Conclusion
+
+## Recap of Key Points in Commercial Correspondence
+Commercial correspondence refers to any written communication that is conducted in a business setting. It encompasses a wide range of documents, including letters, emails, memos, reports, proposals, and resumes, among others. The purpose of commercial correspondence is to convey information, request action, and build relationships in a professional manner.
+
+The structure and layout of business letters, emails, and other forms of commercial correspondence play an important role in their effectiveness. Business letters should have a clear, concise and well-structured format, including a date, recipient's address, salutation, body, closing, and signature. Emails, on the other hand, should have a professional subject line, greeting, body, closing, and signature.
+
+In terms of writing style and techniques, effective commercial correspondence should be clear, concise, and professional. Using proper grammar, spelling, and punctuation is crucial, as well as being mindful of tone and language used. Sales letters, in particular, should use persuasive techniques and strong content to connect with current or prospective customers and encourage them to make a purchase.
+
+Resumes and cover letters, along with reports and proposals, are also important forms of commercial correspondence in business. Resumes should highlight an individual's relevant skills and experience, while cover letters should provide context and explain why they are a good fit for the position they are applying for. Effective reports and proposals should clearly state their purpose, provide relevant data and information, and present a compelling argument or recommendation.
+
+Communication etiquette, professionalism, and cultural awareness are all crucial aspects of effective commercial correspondence. This includes being mindful of the cultural context and differences in communication styles, as well as adhering to proper etiquette, such as addressing individuals correctly and avoiding slang or informal language.
+
+In conclusion, commercial correspondence is a crucial aspect of business communication and plays a vital role in building relationships, conveying information, and achieving success. It is important to be mindful of structure, layout, writing style, and content, as well as professionalism, cultural awareness, and communication etiquette, in order to ensure effective and successful communication in a business setting.
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

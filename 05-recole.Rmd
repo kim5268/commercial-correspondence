@@ -1,0 +1,91 @@
+--- 
+title: "Commercial Corresondence"
+author: "I-Ming, Kim, Chen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+
+# Resumes and Cover Letters
+## Importance of Resumes and Cover Letters
+Resumes and cover letters are the two most important documents in a job application process. A resume provides a snapshot of a job seeker's background, qualifications, and skills, while a cover letter is a document that accompanies a resume and explains why the job seeker is the best fit for the position. Both of these documents play a critical role in the hiring process and are critical for job seekers to understand in order to successfully land a job.
+
+A well-written **resume** is the key to getting an interview with a potential employer. It serves as a marketing tool that showcases the job seeker's strengths and achievements, and highlights the qualities and skills that make them stand out from other candidates. A good resume should be concise, well-organized, and tailored to the specific job the applicant is applying for. This document is typically the first impression that a potential employer will have of the job seeker, so it's important to make sure that it is professional, well-written, and free of errors.
+
+A **cover letter**, on the other hand, is a more personal document that provides context for the resume. It is an opportunity for the job seeker to show their passion for the position and to demonstrate their knowledge of the company and the role they are applying for. A cover letter should be well-written, concise, and tailored to the specific job and company. It should not simply repeat the information that is in the resume, but rather provide additional information that makes the job seeker a strong candidate for the role.
+
+Together, a well-written resume and cover letter can make a strong impression on a potential employer and increase the job seeker's chances of getting an interview. They provide a chance for the job seeker to showcase their skills and qualifications, and to demonstrate why they would be a great fit for the company and the role they are applying for.
+
+In conclusion, resumes and cover letters are critical components of a successful job search. Job seekers should take the time to craft well-written and targeted documents that showcase their strengths and demonstrate their interest in the role. This will help increase their chances of getting an interview and landing the job they want.
+
+## Structure and Content of Resumes and Cover Letters
+The structure and content of a resume and cover letter are critical elements in job applications, as they provide a first impression of a candidate to potential employers. We will explore the essential components of a well-written resume and cover letter and offer tips for crafting effective documents.
+
+**Resume Structure:**
+A typical resume should include the following sections:
+
+1. Contact Information: This should include your name, address, phone number, and email address.
+
+2. Objective or Summary Statement: A brief statement that summarizes your career goals and what you hope to bring to the company.
+
+3. Education: This section should list your degrees, majors, and the names of the universities or colleges where you received your education. If you are still in school, include your expected graduation date.
+
+4. Work Experience: This section should detail your professional experience, including job titles, employers, dates of employment, and key accomplishments. Be specific and quantify your achievements whenever possible.
+
+5. Skills: This section should highlight your technical and soft skills that are relevant to the job you are applying for.
+
+6. Awards and Recognitions: List any awards or honors you have received, including any professional certifications.
+
+7. Professional Memberships: If you belong to any professional organizations, include them in this section.
+
+**Cover Letter Structure:**
+A well-written cover letter should have the following elements:
+
+1. Header: This should include your name and contact information, as well as the date and the recipient's name and address.
+
+2. Salutation: Address the recipient by name, if possible. If you are unsure of the recipient's name, use a generic salutation such as "Dear Hiring Manager."
+
+3. Introduction: This section should explain why you are writing and what job you are applying for.
+
+4. Body: This section should detail why you are a strong fit for the position, highlighting your skills and experiences that are relevant to the job requirements.
+
+5. Closing: End the letter by thanking the recipient for considering your application and reiterating your interest in the position. Offer to provide additional information or to arrange an interview.
+
+6. Signature: Close the letter with a formal signature, including your name, typed below your handwritten signature.
+
+**Structure and Content of Resumes and Cover Letters:**
+
+1. Be Clear and Concise: Avoid long paragraphs and dense blocks of text. Use bullet points and short sentences to make your resume and cover letter easy to read.
+
+2. Customize Your Documents: Tailor your resume and cover letter to the specific job you are applying for. Highlight your relevant skills and experiences and explain how they make you a good fit for the position.
+
+3. Include Keywords: Use the same keywords that appear in the job description, as many companies use applicant tracking systems (ATS) to screen resumes.
+
+4. Proofread Carefully: Spelling and grammar errors can be fatal in a job application. Proofread your resume and cover letter several times and have someone else review them as well.
+
+In conclusion, a well-structured and well-written resume and cover letter are essential components of a successful job application. By highlighting your skills and experiences and demonstrating your fit for the position, you can make a strong impression on potential employers and increase your chances of landing an interview.
+
+## Tips for Writing Effective Resumes and Cover Letters
+Writing an effective resume and cover letter is an important step in the job search process. Resumes and cover letters serve as a first impression for potential employers, so it is important to make sure they are well-crafted and polished. Here are some tips for writing effective resumes and cover letters:
+
+1. Tailor your resume and cover letter to the specific job: Before you start writing, research the company and the specific job you are applying for. Make sure your resume and cover letter highlight your relevant experience and skills for the job.
+
+2. Keep your resume concise and visually appealing: A well-organized and visually appealing resume is more likely to be read. Limit your resume to one or two pages, and use bullet points and headings to make it easier to read.
+
+3. Highlight your accomplishments: Instead of simply listing your job duties, focus on highlighting your achievements and accomplishments. This will show potential employers the value you bring to the table.
+
+4. Use keywords relevant to the job: Many employers use applicant tracking systems to screen resumes, so make sure your resume includes relevant keywords for the job you are applying for.
+
+5. Make your cover letter stand out: Your cover letter should be professional and well-written, but also show some personality. Make sure it complements your resume and highlights why you are a good fit for the job.
+
+6. Proofread carefully: A simple typo or grammatical error can detract from the overall quality of your resume and cover letter. Take the time to proofread both carefully before submitting them.
+
+7. Seek feedback: Ask a trusted friend, mentor, or professional to review your resume and cover letter. They may be able to provide valuable insights and suggestions for improvement.
+
+In conclusion, a well-written resume and cover letter can be the difference between getting called for an interview or being passed over for another candidate. By following these tips, you can make sure your resumes and cover letters effectively showcase your skills and qualifications to potential employers.
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

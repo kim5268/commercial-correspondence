@@ -1,9 +1,3 @@
---- 
-title: "Commercial Corresondence"
-author: "I-Ming, Kim, Chen"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
----
 
 # Resumes and Cover Letters
 ## Importance of Resumes and Cover Letters
@@ -82,10 +76,3 @@ Writing an effective resume and cover letter is an important step in the job sea
 7. Seek feedback: Ask a trusted friend, mentor, or professional to review your resume and cover letter. They may be able to provide valuable insights and suggestions for improvement.
 
 In conclusion, a well-written resume and cover letter can be the difference between getting called for an interview or being passed over for another candidate. By following these tips, you can make sure your resumes and cover letters effectively showcase your skills and qualifications to potential employers.
-
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-

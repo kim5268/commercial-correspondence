@@ -1,9 +1,3 @@
---- 
-title: "Commercial Corresondence"
-author: "I-Ming, Kim, Chen"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
----
 
 # Email Communication
 Email communication is a widely used method of transmitting information electronically. With the development of technology, it has become a convenient and efficient way for people to communicate with each other, especially in the business world. Email allows individuals to send messages, documents, and other types of files to recipients anywhere in the world, almost instantly. Unlike traditional mail, email does not require physical delivery and can be easily stored, searched and organized. In addition, email provides a permanent record of all correspondence, which can be important for both personal and professional use. Effective email communication is essential for successful communication in the modern workplace, and it is important to understand the basics of how to write and send effective emails.

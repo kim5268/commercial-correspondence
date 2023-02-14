@@ -1,9 +1,3 @@
---- 
-title: "Commercial Corresondence"
-author: "I-Ming, Kim, Chen"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
----
 
 # Sales Letters
 ## Purpose and Importance of Sales Letters
@@ -48,7 +42,3 @@ Effective sales letters use a combination of writing techniques to grab the read
 6. Making a call to action: Sales letters should end with a clear and specific call to action that tells the reader what they should do next. Whether it is to place an order, call for more information, or visit a website, the call to action should be easy to follow and irresistible.
 
 By utilizing these writing techniques, sales letters can be more effective in capturing the reader's attention and persuading them to take action.
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```

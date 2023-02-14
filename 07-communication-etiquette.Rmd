@@ -1,9 +1,3 @@
---- 
-title: "Commercial Corresondence"
-author: "I-Ming, Kim, Chen"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
----
 
 # Communication Etiquette
 Communication etiquette refers to the set of rules and norms that dictate the appropriate and respectful behavior in a given communication context. Good communication etiquette is important in both personal and professional settings as it helps to ensure effective and efficient communication, as well as to maintain positive relationships with others.
@@ -66,10 +60,4 @@ Cultural awareness also involves understanding the cultural context of the busin
 Another important aspect of cultural awareness in business is the recognition of the impact that cultural differences can have on business relationships. For example, differences in communication styles can lead to misunderstandings, while differences in values and beliefs can lead to conflicts. Business people need to be aware of these potential challenges and take steps to address them, such as seeking out intercultural communication training or developing cross-cultural teams.
 
 In conclusion, cultural awareness is a critical component of effective business communication in today's globalized business landscape. By understanding cultural differences and similarities, and by recognizing the cultural context in which they are communicating, business people can develop the skills and knowledge necessary to communicate effectively across cultural divides and to create successful business relationships with colleagues and clients from around the world.
-
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 

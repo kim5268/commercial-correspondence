@@ -1,9 +1,3 @@
---- 
-title: "Commercial Corresondence"
-author: "I-Ming, Kim, Chen"
-date: '`r Sys.Date()`'
-site: bookdown::bookdown_site
----
 
 # Conclusion
 
@@ -19,10 +13,4 @@ Resumes and cover letters, along with reports and proposals, are also important 
 Communication etiquette, professionalism, and cultural awareness are all crucial aspects of effective commercial correspondence. This includes being mindful of the cultural context and differences in communication styles, as well as adhering to proper etiquette, such as addressing individuals correctly and avoiding slang or informal language.
 
 In conclusion, commercial correspondence is a crucial aspect of business communication and plays a vital role in building relationships, conveying information, and achieving success. It is important to be mindful of structure, layout, writing style, and content, as well as professionalism, cultural awareness, and communication etiquette, in order to ensure effective and successful communication in a business setting.
-
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 

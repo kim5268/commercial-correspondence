@@ -1,9 +1,3 @@
---- 
-title: "Commercial Corresondence"
-author: "I-Ming, Kim, Chen"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
----
 
 # Reports and Proposals
 ## Purpose and Importance of Reports and Proposals
@@ -64,7 +58,3 @@ Here are several writing techniques for creating effective reports and proposals
 6. Proofread and Edit: Finally, it is crucial to proofread and edit the report or proposal carefully to eliminate any errors and inconsistencies. Pay close attention to grammar, spelling, and punctuation, and seek feedback from colleagues and peers to ensure the document is clear, concise, and effective.
 
 In conclusion, writing effective reports and proposals is a crucial skill for success in the business world. By following these writing techniques and tips, you can create compelling and persuasive documents that communicate your ideas and goals effectively.
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
